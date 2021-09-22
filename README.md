@@ -9,3 +9,5 @@
 torch==1.4.0  
 torchvision==0.5.0  
 ```
+
+- [これについて書いたブログ](https://zenn.dev/megane_otoko/articles/063_super_resolution)
